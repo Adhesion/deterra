@@ -1,0 +1,11 @@
+-terrain representation (float**?)
+--how to represent path - maybe vector<pair<int,int>> but how to generate?
+--oversampling/antialiasing?
+
+-filters...
+--customizable poles/zeroes?
+
+-drawn oscillator
+--force only 1 point per x val when drawing -> waveform directly?
+
+-GL visualization, tabbed per oscillator?
