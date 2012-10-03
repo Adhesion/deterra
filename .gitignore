@@ -1,0 +1,8 @@
+Debug/
+deterra/Debug/
+ipch/
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.aps
